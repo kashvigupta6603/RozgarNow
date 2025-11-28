@@ -53,7 +53,7 @@ const About = () => {
       <div className="bg-gradient-hero py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
-            About Vacantra
+            About RozgarNow
           </h1>
           <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto">
             Empowering millions of job aspirants with the most comprehensive platform 
@@ -68,7 +68,7 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold text-foreground mb-6">Our Mission</h2>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            Vacantra was founded with a simple yet powerful mission: to democratize access to government 
+            RozgarNow was founded with a simple yet powerful mission: to democratize access to government 
             job opportunities across India. We believe that every qualified candidate deserves equal access 
             to information about government positions, regardless of their location or background.
           </p>
@@ -87,7 +87,7 @@ const About = () => {
         {/* Features Grid */}
         <div className="mb-16">
           <h2 className="text-3xl font-bold text-center text-foreground mb-12">
-            Why Choose Vacantra?
+            Why Choose RozgarNow?
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {features.map((feature, index) => {
@@ -146,7 +146,7 @@ const About = () => {
           <h2 className="text-3xl font-bold text-foreground mb-6">Our Impact</h2>
           <div className="bg-gradient-card p-8 rounded-2xl shadow-card max-w-4xl mx-auto">
             <p className="text-lg text-muted-foreground mb-6">
-              Since our launch, Vacantra has helped thousands of candidates secure their dream government jobs. 
+              Since our launch, RozgarNow has helped thousands of candidates secure their dream government jobs. 
               Our platform has become the go-to destination for job seekers across India, providing them with 
               timely information, expert guidance, and the tools they need to succeed.
             </p>

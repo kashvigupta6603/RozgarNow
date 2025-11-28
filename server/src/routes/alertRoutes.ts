@@ -100,7 +100,7 @@ router.get(
 
       await sendMail(
         user.email,
-        "Your matched jobs — Vacantra",
+        "Your matched jobs — RozgarNow",
         `<h2>Here are your matched jobs</h2>
          <ul>
            ${top.map((j: any) => `<li>${j.title}</li>`).join("")}

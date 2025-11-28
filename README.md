@@ -1,6 +1,6 @@
 md file
 
-# Vacantra
+# RozgarNow
 
 A modern web application that provides **Government Job Alerts & Syllabus Tracking**.  
 Stay updated with the latest job notifications and track exam syllabi efficiently.

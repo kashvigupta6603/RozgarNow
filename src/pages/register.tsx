@@ -50,7 +50,7 @@ export default function Register() {
       <Card className="w-full max-w-md bg-white/90 backdrop-blur-md shadow-xl border-none">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl font-bold text-gray-800">Create Your Account</CardTitle>
-          <p className="text-gray-500 text-sm mt-1">Join Vacantra and start exploring opportunities</p>
+          <p className="text-gray-500 text-sm mt-1">Join RozgarNow and start exploring opportunities</p>
         </CardHeader>
 
         <CardContent>

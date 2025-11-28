@@ -44,7 +44,7 @@ const Index = () => {
     {
       name: "Priya Sharma",
       role: "SBI PO",
-      content: "Vacantra helped me track my dream banking job. The alerts were timely and accurate!",
+      content: "RozgarNow helped me track my dream banking job. The alerts were timely and accurate!",
       rating: 5
     },
     {
@@ -111,10 +111,10 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-              Why Choose Vacantra?
+              Why Choose RozgarNow?
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              Discover the features that make Vacantra the most trusted platform for government job seekers
+              Discover the features that make RozgarNow the most trusted platform for government job seekers
             </p>
           </div>
 
@@ -187,7 +187,7 @@ const Index = () => {
             Ready to Find Your Dream Government Job?
           </h2>
           <p className="text-xl text-primary-foreground/90 mb-8 max-w-3xl mx-auto">
-            Join thousands of successful candidates who trust Vacantra for their career journey. 
+            Join thousands of successful candidates who trust RozgarNow for their career journey. 
             Get started today and never miss another opportunity.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

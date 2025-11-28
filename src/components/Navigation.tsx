@@ -61,7 +61,7 @@ const Navigation = () => {
             <div className="bg-gradient-primary p-2 rounded-lg">
               <Search className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-primary">Vacantra</span>
+            <span className="text-xl font-bold text-primary">RozgarNow</span>
           </Link>
 
           {/* Desktop Nav */}

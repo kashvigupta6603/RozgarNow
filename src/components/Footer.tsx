@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="bg-primary-foreground/10 p-2 rounded-lg">
                 <Mail className="h-6 w-6" />
               </div>
-              <span className="text-xl font-bold">Vacantra</span>
+              <span className="text-xl font-bold">RozgarNow</span>
             </div>
             <p className="text-primary-foreground/80 text-sm mb-4">
               Your trusted platform for government job alerts, exam preparation, and career guidance.
@@ -66,7 +66,7 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-sm text-primary-foreground/80">
                 <Mail className="h-4 w-4" />
-                <span>info@vacantra.com</span>
+                <span>info@RozgarNow.com</span>
               </div>
               <div className="flex items-center space-x-2 text-sm text-primary-foreground/80">
                 <Phone className="h-4 w-4" />
@@ -83,7 +83,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 pt-8 mt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-primary-foreground/80">
-              © 2025 Vacantra. All rights reserved.
+              © 2025 RozgarNow. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy" className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
