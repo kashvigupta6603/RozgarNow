@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["node", "express"],
     "typeRoots": ["./src/types", "./node_modules/@types"],
     "target": "ES2020",
     "module": "CommonJS",
@@ -16,7 +17,7 @@
     "noImplicitAny": false
   },
   "include": [
-    "src/**/*" // This should cover the new types/express.d.ts file
+    "src/**/*", "src/types/express.d.ts" // This should cover the new types/express.d.ts file
   ],
   "exclude": ["node_modules"]
 }
