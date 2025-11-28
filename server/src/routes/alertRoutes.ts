@@ -1,4 +1,5 @@
 // src/routes/notificationRoutes.ts (or your actual path)
+import express from "express";
 import { Router, Request, Response } from "express";
 import nodemailer from "nodemailer";
 import prisma from "../prisma";

@@ -1,4 +1,5 @@
 // src/routes/adminRoutes.ts
+import express from "express";
 import { Router, Request, Response } from "express";
 import prisma from "../prisma";
 import authMiddleware from "../middleware/authMiddleware";
