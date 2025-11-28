@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import { Loader2 } from "lucide-react";
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:4000";
+  import.meta.env.VITE_BACKEND_URL || "http://localhost:4000";
   
 const MatchedJobs = () => {
   const [jobs, setJobs] = useState<any[]>([]);

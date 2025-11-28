@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:4000";
+  import.meta.env.VITE_BACKEND_URL || "http://localhost:4000";
   
 const AdminJobCreate = () => {
   const token = localStorage.getItem("token");

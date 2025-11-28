@@ -8,7 +8,7 @@ import { Label } from "@/components/ui/label";
 
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:4000";
+  import.meta.env.VITE_BACKEND_URL || "http://localhost:4000";
   
 export default function Login() {
   const navigate = useNavigate();
