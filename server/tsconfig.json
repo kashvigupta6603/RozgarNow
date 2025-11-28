@@ -17,7 +17,7 @@
     "noImplicitAny": false
   },
   "include": [
-    "src/**/*", "src/types/express.d.ts" // This should cover the new types/express.d.ts file
+    "src/**/*" // This should cover the new types/express.d.ts file
   ],
   "exclude": ["node_modules"]
 }
