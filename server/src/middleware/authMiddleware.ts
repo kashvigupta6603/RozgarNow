@@ -2,10 +2,16 @@ import express from "express";
 import { Request, Response, NextFunction } from "express";
 import jwt from "jsonwebtoken";
 
-/** Type of decoded JWT payload */
-interface TokenPayload {
+type TokenPayload = {
   id: number;
+};
+
+export interface AuthedRequest extends Request {
+    user?: { id: number };
+    params: any;
+    body: any;
 }
+
 
 /** Extend Express Request to include user */
 declare module "express-serve-static-core" {
